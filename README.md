@@ -122,8 +122,8 @@ This evaluates representation quality.
 
 
 ## 👨‍💻 Author
-
-Dr. Sushma Kumari, Ritik Kumar
+```bash
+Dr. Sushma Kumari, Ritik Kumar,  
 M.Tech Data Science, 2024-2026  
-
+```
 ---
