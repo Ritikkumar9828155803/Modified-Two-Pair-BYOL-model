@@ -123,7 +123,7 @@ This evaluates representation quality.
 
 ## 👨‍💻 Author
 ```bash
-Dr. Sushma Kumari, Ritik Kumar,  
+Dr. Sushma Kumari, Ritik Kumar  
 M.Tech Data Science, 2024-2026  
 ```
 ---
